@@ -1,0 +1,22 @@
+{
+  "name": "caremerge2",
+  "version": "1.0.0",
+  "description": "caremerge control flow test",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "caremerge",
+    "control-flow",
+    "test"
+  ],
+  "author": "Farhan Haseeb",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.0.0",
+    "cheerio": "^0.20.0",
+    "express": "^4.14.0",
+    "q": "^1.4.1"
+  }
+}
